@@ -1,0 +1,28 @@
+{
+    "name": "raindrop/syntax-highlight-bundle",
+    "type": "symfony-bundle",
+    "description": "Raindrop Symfony Syntax Highlight Bundle",
+    "keywords": ["syntax", "highlight", "editor", "html"],
+    "homepage": "https://github.com/raindropdevs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raindrop Dev Team",
+            "homepage": "https://github.com/raindropdevs/SyntaxHighlightBundle/graphs/contributors"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/framework-bundle": ">=2.1.0,<2.3"
+    },
+    "autoload": {
+        "psr-0": { "Raindrop\\SyntaxHighlightBundle": "" }
+    },
+    "target-dir": "Raindrop/SyntaxHighlightBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
