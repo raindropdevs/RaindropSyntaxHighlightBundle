@@ -33,7 +33,7 @@ public function registerBundles()
 {
     $bundles = array(
         // ...
-        new Raindrop\PageBundle\SyntaxHighlightBundle(),
+        new Raindrop\SyntaxHighlightBundle\RaindropSyntaxHighlightBundle(),
     );
 }
 ```
