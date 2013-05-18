@@ -4,7 +4,7 @@
 Documentation and examples are available at [Code Mirror Official  Website](http://codemirror.net/)
 
 
-See a basic usage [here](https://github.com/raindropdevs/RaindropTwigLoaderBundle/blob/master/Resources/public/js/templateAdmin.js)
+See a basic usage [here](https://github.com/raindropdevs/RaindropTwigLoaderBundle/blob/master/Resources/public/js/templateAdmin.js) and code inclusion [here](https://github.com/raindropdevs/RaindropTwigLoaderBundle/blob/master/Resources/views/templateCRUD.html.twig)
 
 A twig highlighter mode is into roadmap.
 
